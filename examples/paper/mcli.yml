@@ -3,10 +3,14 @@
   "version": "1.0.0",
   "jar": {
     "provider": "paper",
-    "version": "1.20.4-451"
+    "version": "1.20.4-451",
+    "memory": {
+      "max": "8G",
+      "min": "6G"
+    }
   },
   "plugins": [
-      "git:EssentialsX/Essentials@2.20.1"
+      "github:EssentialsX/Essentials@2.20.1"
   ],
   "settings": {
     "jvm": {},
