@@ -6,7 +6,7 @@
     "version": "1.20.4-451"
   },
   "plugins": [
-      "git#EssentialsX/Essentials@2.20.1"
+      "git:EssentialsX/Essentials@2.20.1"
   ],
   "settings": {
     "jvm": {},
